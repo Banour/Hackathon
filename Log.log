@@ -1,0 +1,145 @@
+## 2021-07-05 11:44:26 | ZRB | Connected.
+## 2021-07-05 11:45:29 | ZRB | Connected.
+## 2021-07-05 11:46:03 | ZRB | Connected.
+## 2021-07-05 11:47:14 | ZRB | Connected.
+## 2021-07-05 11:47:17 | ZRB | Connected.
+## 2021-07-05 11:52:13 | ZRB | Connected.
+## 2021-07-05 11:52:16 | ZRB | Connected.
+## 2021-07-05 11:54:31 | ZRB | Connected.
+## 2021-07-05 11:54:32 | ZRB | Connected.
+## 2021-07-05 11:54:34 | ZRB | Connected.
+## 2021-07-05 11:54:34 | ZRB | Connected.
+## 2021-07-05 11:54:34 | ZRB | Connected.
+## 2021-07-05 12:30:26 | ZRB | Connected.
+## 2021-07-05 12:30:26 | ZRB | Connected.
+## 2021-07-05 12:31:02 | ZRB | Connected.
+## 2021-07-05 12:31:47 | ZRB | Connected.
+# 2021-07-05 13:32:31 |  | UPDATE docteur SET nom='Ridha' , prenom='Mezi' , cin=7224286 , 
+        				address='Mourouj 5' , tel=55023284 , tel2='' WHERE (login='BLH')
+# 2021-07-05 13:32:31 |  | UPDATE login SET role='Admin' WHERE (login='BLH')
+## 2021-07-06 00:03:00 | ZRB | Connected.
+# 2021-07-06 00:26:35 | ZRB | INSERT INTO `events` (`evt_start`, `evt_end`, `evt_text`, `evt_color`) VALUES (,,dsvv,#4cd6bf)
+# 2021-07-06 00:27:16 | ZRB | INSERT INTO `events` (`evt_start`, `evt_end`, `evt_text`, `evt_color`) VALUES (,,dsf,#4cd6bf)
+# 2021-07-06 00:27:44 | ZRB | DELETE FROM `events` WHERE `evt_id`=26
+# 2021-07-06 00:27:47 | ZRB | DELETE FROM `events` WHERE `evt_id`=25
+# 2021-07-06 00:27:49 | ZRB | INSERT INTO `events` (`evt_start`, `evt_end`, `evt_text`, `evt_color`) VALUES (,,dqs,#4cd6bf)
+# 2021-07-06 00:28:17 | ZRB | DELETE FROM `events` WHERE `evt_id`=27
+# 2021-07-06 00:28:19 | ZRB | INSERT INTO `events` (`evt_start`, `evt_end`, `evt_text`, `evt_color`) VALUES (,,cds,#4cd6bf)
+# 2021-07-06 00:28:31 | ZRB | DELETE FROM `events` WHERE `evt_id`=28
+# 2021-07-06 00:29:08 | ZRB | INSERT INTO `events` (`evt_start`, `evt_end`, `evt_text`, `evt_color`) VALUES (10-07-2021,10-07-2021,fd,#4cd6bf)
+# 2021-07-06 00:30:35 | ZRB | INSERT INTO `events` (`evt_start`, `evt_end`, `evt_text`, `evt_color`) VALUES (10-07-2021,10-07-2021,zzz,#4cd6bf)
+# 2021-07-06 00:30:42 | ZRB | INSERT INTO `events` (`evt_start`, `evt_end`, `evt_text`, `evt_color`) VALUES (10-07-2021,10-07-2021,dd,#4cd6bf)
+# 2021-07-06 00:56:14 | ZRB | DELETE FROM `events` WHERE `evt_id`=29
+# 2021-07-06 00:57:18 | ZRB | INSERT INTO `events` (`evt_start`, `evt_end`, `evt_text`, `evt_color`) VALUES (2021-07-08,2021-07-08,foulen l fouleni 
+,#4cd6bf)
+# 2021-07-06 00:59:45 | ZRB | UPDATE `events` SET `evt_start`=2021-07-10, `evt_end`=2021-07-10, `evt_text`=foulen l fouleni 
+, `evt_color`=#4cd6bf WHERE `evt_id`=32
+# 2021-07-06 01:29:02 |  | UPDATE docteur SET nom='Bayrem' , prenom='Klidi' , cin=4569871 , 
+        				address='Mourouj' , tel=97813775 , tel2='' WHERE (login='KLD')
+# 2021-07-06 01:29:02 |  | UPDATE login SET role='Doctor' WHERE (login='KLD')
+# 2021-07-06 01:31:37 |  | UPDATE docteur SET nom='Bayrem' , prenom='Klidi' , cin=4569871 , 
+        				address='Mourouj' , tel=97813775 WHERE (login='KLD')
+# 2021-07-06 01:31:37 |  | UPDATE login SET role='Doctor' WHERE (login='KLD')
+# 2021-07-06 01:31:46 |  | UPDATE docteur SET nom='Aref' , prenom='Zribi' , cin=6324125 , 
+        				address='' , tel=92508628 WHERE (login='ZRB')
+# 2021-07-06 01:31:46 |  | UPDATE login SET role='Admin' WHERE (login='ZRB')
+## 2021-07-06 01:36:59 | ZRB | Signed out.
+## 2021-07-06 01:44:00 |  | Signed out.
+# 2021-07-06 01:56:22 |  | INSERT INTO `events` (`evt_start`, `evt_end`, `evt_text`, `evt_color`) VALUES (2021-07-08,2021-07-08,vfd,#4cd6bf)
+# 2021-07-06 01:56:45 |  | INSERT INTO `events` (`evt_start`, `evt_end`, `evt_text`, `evt_color`) VALUES (2021-07-08,2021-07-08,vfd,#4cd6bf)
+# 2021-07-06 02:03:24 |  | SELECT * FROM patient where (id='444')
+# 2021-07-06 02:25:34 |  | INSERT INTO staff VALUES ('12345678', 'Anwer', 'Ncibi', '55023284', 'Mhamdia', 'BNR', '', 'Doctor')
+# 2021-07-06 02:28:41 |  | INSERT INTO staff VALUES ('12345671', 'Oussama', 'Belhouichet', '55023284', 'Mhamdia', 'BLH', '$2y$10$F6ubXsNY9dwy9d4eLbRPOO715Jlc9HV6JqEso7UPCYwsRf03LXeQG', 'Doctor')
+# 2021-07-06 02:29:30 |  | SELECT * FROM staff where (login='ous') OR (fname LIKE '%ous%') OR (lname LIKE '%ous%')
+	OR (CIN ='ous') OR (role LIKE '%ous%') 
+# 2021-07-06 02:30:36 |  | DELETE FROM staff WHERE login='BNR' 
+# 2021-07-06 02:31:38 |  | SELECT * FROM patient where (id='25')
+## 2021-07-06 02:31:53 |  | Signed out.
+## 2021-07-06 02:34:36 | BLH | Connection attempt failed. 
+## 2021-07-06 02:35:30 | BLH | Connection attempt failed. 
+## 2021-07-06 02:35:35 | BLH | Connection attempt failed. 
+# 2021-07-06 02:37:13 |  | UPDATE staff SET fname='Oussama' , lname='Belhouichet' , cin=12345671 , 
+        				address='Mhamdia' , tel=55023284 WHERE (login='BLH')
+# 2021-07-06 02:37:13 |  | UPDATE staff SET pwd='$2y$10$DSd2ahcLwbg2xNrQ4ukgRe9Niwb7bPO7O9gEAGIMT.oTe60qD5OZm', role='Doctor' WHERE (login='BLH')
+# 2021-07-06 02:37:13 |  | UPDATE staff SET role='Doctor' WHERE (login='BLH')
+## 2021-07-06 02:37:19 |  | Signed out.
+## 2021-07-06 02:37:25 | BLH | Connection attempt failed. 
+## 2021-07-06 02:37:33 | BLH | Connection attempt failed. 
+## 2021-07-06 02:38:50 | BLH | Connection attempt failed. 
+## 2021-07-06 02:39:54 | BLH | Connection attempt failed. 
+## 2021-07-06 02:40:58 | BLH | Connection attempt failed. 
+## 2021-07-06 02:41:06 | BLH | Connection attempt failed. 
+# 2021-07-06 02:43:43 |  | INSERT INTO staff VALUES ('12345699', 'Anwer', 'Ncibi', '55023284', 'Mhamdia', 'BNR', '$2y$10$tGvcTmK.8m9/awp0lGSF7ed988TW65sBUgT5vrRYxzt8aR4YPqYq6', 'Doctor')
+## 2021-07-06 02:44:15 | BNR | Connection attempt failed. 
+## 2021-07-06 02:48:53 | BNR | Connection attempt failed. 
+## 2021-07-06 02:57:07 | BLH | Connection attempt failed. 
+## 2021-07-06 02:59:03 | BLH | Connection attempt failed. 
+## 2021-07-06 02:59:09 | BLH | Connection attempt failed. 
+## 2021-07-06 03:05:00 | BLH | Connection attempt failed. 
+## 2021-07-06 03:05:09 | BLH | Connection attempt failed. 
+# 2021-07-06 03:07:00 |  | UPDATE staff SET fname='Oussama' , lname='Belhouichet' , cin=12345671 , 
+        				address='Mhamdia' , tel=55023284 WHERE (login='BLH')
+# 2021-07-06 03:07:00 |  | UPDATE staff SET pwd='$2y$10$LP18LKK87Uav7k.nHRXfc.96oPe/I9psyGGOoCu.1POJye1Pz.Lhm', role='Doctor' WHERE (login='BLH')
+# 2021-07-06 03:07:00 |  | UPDATE staff SET role='Doctor' WHERE (login='BLH')
+## 2021-07-06 03:07:23 | BLH | Connection attempt failed. 
+## 2021-07-06 03:11:13 | BLH | Connected.
+## 2021-07-06 03:12:20 | BLH | Connected.
+## 2021-07-06 03:12:41 | BLH | Connected.
+## 2021-07-06 03:12:52 | BLH | Signed out.
+## 2021-07-06 03:15:50 | BLH | Connection attempt failed. 
+## 2021-07-06 03:17:37 | BLH | Connection attempt failed. 
+## 2021-07-06 03:22:21 | BLH | Connection attempt failed. 
+## 2021-07-06 03:26:28 | BLH | Connected.
+## 2021-07-06 03:27:30 | BLH | Signed out.
+## 2021-07-06 03:27:35 | BLH | Connection attempt failed. 
+## 2021-07-06 03:27:40 | BLH | Connection attempt failed. 
+## 2021-07-06 03:27:46 | BLH | Connection attempt failed. 
+## 2021-07-06 03:29:45 | BLH | Connection attempt failed. 
+## 2021-07-06 03:30:08 | BLH | Connection attempt failed. 
+## 2021-07-06 03:30:15 | BLH | Connection attempt failed. 
+## 2021-07-06 03:30:21 | BLH | Connection attempt failed. 
+## 2021-07-06 03:40:39 |  | Signed out.
+## 2021-07-06 03:41:25 | BLH | Connected.
+## 2021-07-06 03:41:54 | BLH | Connected.
+## 2021-07-06 03:41:59 | BLH | Signed out.
+## 2021-07-06 03:42:06 | BNR | Connected.
+## 2021-07-06 03:42:16 | BNR | Signed out.
+## 2021-07-06 03:42:52 | BLH | Connected.
+## 2021-07-06 03:47:57 | BLH | Signed out.
+## 2021-07-06 03:48:08 | BLH | Connected.
+## 2021-07-06 03:48:57 | BLH | Signed out.
+## 2021-07-06 03:50:57 | BLH | Connected.
+## 2021-07-06 03:51:04 | BLH | Connected.
+## 2021-07-06 03:52:20 | BLH | Signed out.
+## 2021-07-06 03:52:30 | BNR | Connected.
+## 2021-07-06 03:52:38 | BNR | Connected.
+## 2021-07-06 03:52:57 | BNR | Connected.
+## 2021-07-06 03:53:07 | BNR | Signed out.
+## 2021-07-06 03:54:30 | BLH | Connection attempt failed. 
+## 2021-07-06 03:54:38 | BLH | Connected.
+## 2021-07-06 03:56:24 | BLH | Connected.
+## 2021-07-06 03:57:58 | BLH | Connected.
+## 2021-07-06 03:58:21 | BLH | Connected.
+## 2021-07-06 03:58:28 | BLH | Signed out.
+## 2021-07-06 03:59:08 | BNR | Connected.
+## 2021-07-06 03:59:27 | BNR | Connected.
+## 2021-07-06 03:59:31 | BNR | Signed out.
+## 2021-07-06 03:59:37 | BLH | Connected.
+## 2021-07-06 03:59:41 | BLH | Signed out.
+## 2021-07-06 03:59:47 | BNR | Connected.
+## 2021-07-06 04:00:33 | BNR | Signed out.
+## 2021-07-06 04:00:39 | BLH | Connected.
+## 2021-07-06 04:00:50 | BLH | Signed out.
+## 2021-07-06 04:00:56 | BNR | Connected.
+## 2021-07-06 04:02:58 | BNR | Connected.
+## 2021-07-06 04:03:19 | BNR | Connected.
+## 2021-07-06 04:03:29 | BNR | Signed out.
+## 2021-07-06 04:03:44 | BLH | Connection attempt failed. 
+## 2021-07-06 04:03:51 | BLH | Connected.
+## 2021-07-06 04:04:56 | BLH | Signed out.
+## 2021-07-06 04:05:07 | BLH | Connected.
+## 2021-07-06 04:06:40 | BLH | Connected.
+## 2021-07-06 04:06:44 | BLH | Signed out.
+## 2021-07-06 04:06:50 | BNR | Connected.
+## 2021-07-06 04:07:03 | BNR | Signed out.
+## 2021-07-06 08:30:50 | BNR | Connected.
